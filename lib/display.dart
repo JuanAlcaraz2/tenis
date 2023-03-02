@@ -11,6 +11,6 @@ class Jugador2{
 }
 String CanchaTenis(int a){
   
-  if (Jugador1.punto==0 ) return love;
+  
   return'';
 }
